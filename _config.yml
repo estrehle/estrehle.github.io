@@ -95,7 +95,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Built with Matt Sproogen's [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme)
+references_title: Built with Matt Sproogen's Modern Resume Theme (https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
