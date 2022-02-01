@@ -43,7 +43,7 @@ orcid_username: 0000-0002-4351-7865
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I studied business administration and financial mathematics, completing my PhD in mathematics in 2017.
   Since then I have worked in IT: as a Python data engineer, a blockchain researcher and a TypeScript full-stack developer.
