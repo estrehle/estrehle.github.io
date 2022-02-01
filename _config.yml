@@ -32,7 +32,7 @@ content:
   - title: IT Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-center
+      - layout: left
         title: Fullstack Development
         description: | # this will include new lines to allow paragraphs
           I taught myself TypeScript/JavaScript in early 2021.
@@ -43,7 +43,7 @@ content:
           As much as I enjoy programming, I view it as a tool to accomplish things that are useful to actual humans.
           My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
           Next to my programming work I have tried to teach myself a little software architecture (particularly domain-driven design), requirements engineering and project management.
-      - layout: top-center
+      - layout: left
         title: Decentralized Data Exchanges
         description: |
           Over the last two years, much of my work has revolved around decentralized data exchanges.
