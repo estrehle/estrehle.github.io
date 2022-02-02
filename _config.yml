@@ -21,12 +21,13 @@ orcid_username: 0000-0002-4351-7865
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I studied business administration and financial mathematics, completing my PhD in mathematics in 2017.
-  Since then I have worked in IT as a Python data engineer, blockchain researcher and TypeScript full-stack developer.
+  After studying business administration and financial mathematics, I completed my PhD in mathematics in 2017.
+  Since then I have worked in IT - as a Python data engineer, blockchain researcher and TypeScript full-stack developer.
 
   My passion is to make complicated things work.
   I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture (which is why I loved academic research).
   And I enjoy building things that put these concepts to work and make a difference in real life (which is why I left academic research).
+
 
 content:
   - title: IT Experience # Title for the section
@@ -37,7 +38,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I taught myself TypeScript/JavaScript in early 2021.
           Since then I have built several prototypes of full-stack applications.
-          My current default tech stack includes the [Angular](https://angular.io/) and [Nest.js](https://nestjs.com/) frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
+          My current default tech stack includes the Angular and Nest.js frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
           Take a look at my showcase [server-to-server chat application](https://github.com/estrehle/webchat) to see how I code.
 
           As much as I enjoy programming, I view it as a tool to accomplish things that are useful.
@@ -51,17 +52,17 @@ content:
           Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/) on blockchain's confidentiality issues
           and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchange.
 
-          Currently I am part of the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their own medical data.
-          My contribution to the project includes architecting and implementing a decentralized data exchange built on top of the [Hyperledger Aries](https://www.hyperledger.org/use/aries) toolkit.
+          Currently I am part of the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their medical data.
+          My contribution to the project includes co-architecting and co-implementing a decentralized data exchange built on top of the [Hyperledger Aries](https://www.hyperledger.org/use/aries) toolkit.
           Unfortunately, the results are not (yet) public.
       - layout: left
         title: Data Engineering and Machine Learning
         description: |
           I have experience in various stages of the data processing life cycle, including automated data import from REST APIs,
           data modeling and transformation in TypeScript and Python,
-          interaction with relational databases through ORMs and plain SQL
+          interaction with relational databases through ORMs and SQL
           as well as basic knowledge of machine learning and deep learning.
-          For a developer, my aversion to Microsoft Office is unusually low, and I enjoy analysing and presenting data for all kinds of audiences.
+          For a developer, my aversion to Microsoft Office is unusually low, and I enjoy explaining and presenting data to all kinds of audiences.
 
   - title: Professional Experience
     layout: list
@@ -76,20 +77,14 @@ content:
       title: Blockchain Research Lab
       sub_title: Blockchain Researcher
       caption: August 2019 - April 2021
-      link: https://blockchainresearchlab.org/
-      link_text: blockchainresearchlab.org
     - layout: top-middle
       title: Yieldlove
       sub_title: Python Software Engineer and Data Scientist
       caption: June 2018 - August 2019
-      link: https://yieldlove.com/
-      link_text: yieldlove.com
     - layout: top-middle
       title: Rheindata
       sub_title: Data Engineer and Data Scientist
       caption: January 2018 - June 2018
-      link: https://www.rheindata.com/
-      link_text: rheindata.com
     - layout: top-middle
       title: University of Mannheim
       sub_title: Research Assistant
