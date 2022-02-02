@@ -22,7 +22,7 @@ orcid_username: 0000-0002-4351-7865
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I studied business administration and financial mathematics, completing my PhD in mathematics in 2017.
-  Since then I have worked in IT: as a Python data engineer, a blockchain researcher and a TypeScript full-stack developer.
+  Since then I have worked in IT as a Python data engineer, blockchain researcher and TypeScript full-stack developer.
 
   My passion is to make complicated things work.
   I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture (which is why I loved academic research).
@@ -36,27 +36,22 @@ content:
         title: Fullstack Development
         description: | # this will include new lines to allow paragraphs
           I taught myself TypeScript/JavaScript in early 2021.
-          Since then I have built several prototype full-stack applications.
-          My current default tech stack comprises Angular and AWS Amplify for frontend and Nest.js, MySQL, Docker and AWS Lightsail for backend, both hosted and deployed from GitHub.
-          The applications I built for my employers are proprietary, but I have published a showcase server-to-server chat application [here](https://github.com/estrehle/webchat).
+          Since then I have built several prototypes of full-stack applications.
+          My current default tech stack comprises the [Angular](https://angular.io/) and [Nest.js](https://nestjs.com/) frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
+          The applications I built for my employers are proprietary, but I have published a showcase server-to-server chat application on [GitHub](https://github.com/estrehle/webchat).
 
-          As much as I enjoy programming, I view it as a tool to accomplish things that are useful to actual humans.
+          As much as I enjoy programming, I view it as a tool to accomplish things that are useful.
           My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
-          Next to my programming work I have tried to teach myself a little software architecture (particularly domain-driven design), requirements engineering and project management.
       - layout: left
         title: Decentralized Data Exchanges
         description: |
-          Over the last two years, much of my work has revolved around decentralized data exchanges.
-          Here, "decentralized" means that data is not stored and controlled by one party;
-          instead, each piece of data is stored and controlled by its respective owner or creator.
-          Decentralized data exchanges promise high degrees of privacy and data sovereignty, but come with unique challenges in the areas of privacy, consistency and interoperability.
+          Much of my recent work has revolved around decentralized data exchanges.
+          These are computer networks where data is stored and controller by the people who own them, rather than a central intermediary.
 
           I had the opportunity to dive into this topic during my work as a blockchain researcher and also in my current position as a software engineer.
-          Some of my outputs are publicly available, including a [blog post on blockchain's confidentiality issues](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/)
-          and a [working paper introducing a privacy-preserving decentralized data exchange](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf).
-          Currently I am contributing to the [BloG³ research project](https://www.blog3.de/) (link in German), where we are trying to build a decentralized data exchange for patients' medical data using the [Hyperledger Aries](https://www.hyperledger.org/use/aries) ecosystem.
-
-          If you want to talk about decentralized data exchanges or have an idea of how we could collaborate, please let me know!
+          Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/)  on blockchain's confidentiality issues
+          and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchanges.
+          Currently I am contributing to the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their own medical data.
 
 # Footer
 footer_show_references: true
