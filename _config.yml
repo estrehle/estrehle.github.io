@@ -68,42 +68,42 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title: CircularTree
-      sub_title: CTO
+      title: CTO
+      sub_title: CircularTree
       caption: April 2021 - Present
       link: https://www.circulartree.com/
       link_text: circulartree.com
     - layout: top-middle
-      title: Blockchain Research Lab
-      sub_title: Blockchain Researcher
+      title: Blockchain Researcher
+      sub_title: Blockchain Research Lab
       caption: August 2019 - April 2021
     - layout: top-middle
-      title: Yieldlove
-      sub_title: Python Software Engineer and Data Scientist
+      title: Python Software Engineer and Data Scientist
+      sub_title: Yieldlove
       caption: June 2018 - August 2019
     - layout: top-middle
-      title: Rheindata
-      sub_title: Data Engineer and Data Scientist
+      title: Data Engineer and Data Scientist
+      sub_title: Rheindata
       caption: January 2018 - June 2018
     - layout: top-middle
-      title: University of Mannheim
-      sub_title: Research Assistant
+      title: Research Assistant
+      sub_title: University of Mannheim
       caption: October 2014 - December 2017
 
   - title: Education
     layout: list
     content:
     - layout: top-middle
-      title: University of Mannheim
-      sub_title: Dr. rer. nat. Financial Mathematics (summa cum laude)
+      title: Dr. rer. nat. Financial Mathematics (summa cum laude)
+      sub_title: University of Mannheim
       caption: 2014 - 2017
     - layout: top-middle
-      title: Christian-Albrecht University of Kiel
-      sub_title: M.Sc. Financial Mathematics
+      title: M.Sc. Financial Mathematics
+      sub_title: Christian-Albrecht University of Kiel
       caption: 2012 - 2014
     - layout: top-middle
-      title: University of Mannheim
-      sub_title: B.Sc. Business Administration
+      title: B.Sc. Business Administration
+      sub_title: University of Mannheim
       caption: 2008 - 2011
 
 # Footer
