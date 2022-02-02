@@ -38,7 +38,8 @@ content:
           I taught myself TypeScript/JavaScript in early 2021.
           Since then I have built several prototypes of full-stack applications.
           My current default tech stack comprises the [Angular](https://angular.io/) and [Nest.js](https://nestjs.com/) frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
-          The applications I built for my employers are proprietary, but I have published a showcase server-to-server chat application on [GitHub](https://github.com/estrehle/webchat).
+          
+          The applications I built for my employers are proprietary, but I have published a showcase [server-to-server chat application](https://github.com/estrehle/webchat).
 
           As much as I enjoy programming, I view it as a tool to accomplish things that are useful.
           My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
@@ -46,13 +47,18 @@ content:
         title: Decentralized Data Exchanges
         description: |
           Much of my recent work has revolved around decentralized data exchanges.
-          These are computer networks where data is stored and controller by the people who own them, rather than a central intermediary.
+          These are computer networks where data is stored and controlled by its owners and not by a central intermediary.
 
-          I had the opportunity to dive into this topic during my work as a blockchain researcher and also in my current position as a software engineer.
-          Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/)  on blockchain's confidentiality issues
-          and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchanges.
-          Currently I am contributing to the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their own medical data.
-
+          My personal focus within this area has been on the (in-)applicability of blockchain technology and [self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) frameworks.
+          Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/) on blockchain's confidentiality issues
+          and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchange.
+          
+          Currently I am part of the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their own medical data.
+          My contribution to the project includes architecting and implementing a decentralized data exchange built on top of the [Hyperledger Aries](https://www.hyperledger.org/use/aries) toolkit.
+#       - layout: left
+#         title: Data Engineering and Machine Learning
+#         description: |
+          
 # Footer
 footer_show_references: true
 references_title: Built with Matt Sproogen's Modern Resume Theme (https://github.com/sproogen/modern-resume-theme)
