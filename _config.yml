@@ -27,10 +27,12 @@ about_content: | # this will include new lines to allow paragraphs
   My passion is to make complicated things work.
   I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture.
   And I enjoy building things that put these concepts to work and make a difference in real life.
-  Software projects give me both kinds of joy.
+  Software projects let me do both.
   Especially those projects that come with a twist:
   cutting-edge technology, multi-agent networks, concurrency issues, thorny privacy requirements, etc.
-  And if the results make our world a better place: even better.
+  
+  As much as I enjoy programming, however, I view it as a tool to accomplish things that are useful.
+  My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
 
 content:
   - title: IT Experience # Title for the section
@@ -43,9 +45,6 @@ content:
           Since then I have built several prototypes of full-stack applications.
           My current default tech stack includes the Angular and Nest.js frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
           Take a look at my showcase [server-to-server chat application](https://github.com/estrehle/webchat) to see how I code.
-
-          As much as I enjoy programming, I view it as a tool to accomplish things that are useful.
-          My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
       - layout: left
         title: Decentralized Data Exchanges
         description: |
