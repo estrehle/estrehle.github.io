@@ -27,9 +27,10 @@ about_content: | # this will include new lines to allow paragraphs
   My passion is to make complicated things work.
   I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture.
   And I enjoy building things that put these concepts to work and make a difference in real life.
-  Software projects give me both kinds of joy, especially those that come with a twist:
+  Software projects give me both kinds of joy.
+  Especially those projects that come with a twist:
   cutting-edge technology, multi-agent networks, concurrency issues, thorny privacy requirements.
-  And if the result makes our world a better place: even better.
+  And if the software makes our world a better place: even better.
 
 content:
   - title: IT Experience # Title for the section
