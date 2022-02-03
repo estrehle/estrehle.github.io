@@ -25,9 +25,11 @@ about_content: | # this will include new lines to allow paragraphs
   Since then I have worked in IT - as a Python data engineer, blockchain researcher and TypeScript full-stack developer.
 
   My passion is to make complicated things work.
-  I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture (which is why I loved academic research).
-  And I enjoy building things that put these concepts to work and make a difference in real life (which is why I left academic research).
-
+  I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture.
+  And I enjoy building things that put these concepts to work and make a difference in real life.
+  Software projects give me both kinds of joy, especially those that come with a twist:
+  cutting-edge technology, multi-agent networks, concurrency issues, thorny privacy requirements.
+  And if the result makes our world a better place: even better.
 
 content:
   - title: IT Experience # Title for the section
